@@ -1,0 +1,12 @@
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\bin\Debug\net7.0\Solutions.deps.json
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\bin\Debug\net7.0\Solutions.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\bin\Debug\net7.0\Solutions.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.csproj.AssemblyReference.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.AssemblyInfoInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.AssemblyInfo.cs
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\refint\Solutions.dll
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\Solutions.pdb
+C:\Users\MulinhaGPlays\Documents\GitHub\CodeWars-Solutions\Solutions\Solutions\obj\Debug\net7.0\ref\Solutions.dll
