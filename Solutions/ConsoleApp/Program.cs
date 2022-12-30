@@ -6,7 +6,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testes");
+            int v1 = 720;
+            int v2 = 850;
+            int g = 70;
+            Console.WriteLine(TortoiseRacing.Solution(v1,v2,g));
         }
     }
 }
